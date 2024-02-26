@@ -2,7 +2,7 @@
 - 👀 I’m interested in eating delicious foods and playing with cats.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on making small but unique projects.
-- 📫 How to reach me just mail me
+- 📫 How to reach me just mail me @farjiadristy@gmail.com.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I am always correct even though I make tons of mistakes.
 
