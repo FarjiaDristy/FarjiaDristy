@@ -1,4 +1,14 @@
 # 💫 About Me:
+
+
+## 🌟 Featured Engineering Repositories
+
+| Repository | Domain | Core Highlights |
+| :--- | :--- | :--- |
+| 🔌 **[vlsi-semiconductor-and-network-systems](https://github.com/FarjiaDristy/vlsi-semiconductor-and-network-systems)** | **CMOS VLSI & Cisco Networking** | Transistor-level CMOS logic gates, 4-to-1 MUX, 1-bit Full Adder with SPICE transient testbenches, and enterprise Cisco Packet Tracer network topologies (OSPF/RIP, SMTP, FTP, VLANs). |
+| 💻 **[university-and-legacy-code-archive](https://github.com/FarjiaDristy/university-and-legacy-code-archive)** | **Software, Algorithms & Graphics** | 90 verified algorithms covering core Data Structures (Stacks, Sorting, Binary Search), C++ OpenGL 2D graphics primitives, and CS50 Cybersecurity tools. |
+
+---
 🔭 I am currently working on a cute and friendly AI Fitness agent.<br>🤝 I am looking to collaborate on AI Dev and web apps projects. <br>🌱 I am learning ML MLOPS and Python Django.<br>🧩 I am highly interested in Cybersecurity and Data Analysis. <br>💬 Ask me about Gen AI, LLM, and OSINT.<br>⚡ I always look angry even though I am not.
 
 
